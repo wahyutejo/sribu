@@ -46,12 +46,12 @@
 }
 
 .picture_one {
-  width: 100vw;
+  max-width: 100%;
   position: inherit;
 }
 
 .picture {
-  width: 100vw;
+  max-width: 100%;
   position: inherit;
 }
 
