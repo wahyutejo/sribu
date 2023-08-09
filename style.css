@@ -1,0 +1,64 @@
+.heading {
+  position: absolute;
+  padding-top: -20;
+}
+.logo img {
+  width: 7rem;
+}
+
+.navbar {
+  background-color: #a00000;
+}
+
+.heading-img {
+  width: 40vw;
+}
+
+.problem {
+  position: absolute;
+  padding-top: -20;
+}
+
+.problem img {
+  width: 40vw;
+  margin-right: -5rem;
+  margin-left: 2rem;
+}
+
+.reason {
+  margin-top: -15rem;
+}
+
+.reason img {
+  width: 40vw;
+}
+
+.portfolio-img {
+  height: 13rem;
+}
+
+.chart {
+  background-color: #eeeded;
+}
+
+.chart_img {
+  width: 70vw;
+}
+
+.picture_one {
+  width: 100vw;
+  position: inherit;
+}
+
+.picture {
+  width: 100vw;
+  position: inherit;
+}
+
+.form-control {
+  width: 20rem;
+}
+
+footer {
+  background-color: #a00000;
+}
